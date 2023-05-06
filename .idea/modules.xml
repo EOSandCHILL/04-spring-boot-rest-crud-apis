@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/dev-spring-boot.iml" filepath="$PROJECT_DIR$/.idea/dev-spring-boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-spring-boot-overview/07-server-demo/mycoolapp.iml" filepath="$PROJECT_DIR$/01-spring-boot-overview/07-server-demo/mycoolapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-spring-boot-overview/03-Actuator-demo/mycoolapp (1).iml" filepath="$PROJECT_DIR$/01-spring-boot-overview/03-Actuator-demo/mycoolapp (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-spring-boot-overview/02-dev-tools-demo/mycoolapp (2).iml" filepath="$PROJECT_DIR$/01-spring-boot-overview/02-dev-tools-demo/mycoolapp (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-spring-boot-overview/06-properties-demo/mycoolapp (3).iml" filepath="$PROJECT_DIR$/01-spring-boot-overview/06-properties-demo/mycoolapp (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-spring-boot-overview/01-spring-boot-demo/mycoolapp (4).iml" filepath="$PROJECT_DIR$/01-spring-boot-overview/01-spring-boot-demo/mycoolapp (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-spring-boot-overview/05-command-line-demo/mycoolapp (5).iml" filepath="$PROJECT_DIR$/01-spring-boot-overview/05-command-line-demo/mycoolapp (5).iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-spring-boot-overview/04-Actuator-security-demo/mycoolapp (6).iml" filepath="$PROJECT_DIR$/01-spring-boot-overview/04-Actuator-security-demo/mycoolapp (6).iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-spring-boot-spring-core/04-qualifiers/springcoredemo.iml" filepath="$PROJECT_DIR$/02-spring-boot-spring-core/04-qualifiers/springcoredemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-spring-boot-spring-core/03-setter-injection/springcoredemo (1).iml" filepath="$PROJECT_DIR$/02-spring-boot-spring-core/03-setter-injection/springcoredemo (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-spring-boot-spring-core/02-component-scanning/springcoredemo (2).iml" filepath="$PROJECT_DIR$/02-spring-boot-spring-core/02-component-scanning/springcoredemo (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-spring-boot-spring-core/01-constructor-injection/springcoredemo (3).iml" filepath="$PROJECT_DIR$/02-spring-boot-spring-core/01-constructor-injection/springcoredemo (3).iml" />
+    </modules>
+  </component>
+</project>
